@@ -74,7 +74,8 @@ article{
     width:455px;
     height:72%;
     float: left;    
-    margin: 20px auto 10px auto;     
+    margin: 20px auto 10px auto;  
+    overflow:auto;     
 }
 
 aside {
@@ -87,6 +88,4 @@ aside {
 
 footer {
     clear: both; 
-    overflow:auto;  
-    display: block;
 }
